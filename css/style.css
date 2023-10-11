@@ -1,0 +1,38 @@
+/* CSS for Introduction Section */
+#introduction {
+    background-image: url('your-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: black; /* Text color */
+    text-align: center;
+    padding: 100px 0; /* Adjust the padding as needed */
+}
+
+#introduction h1 {
+    font-size: 36px;
+}
+
+#roles {
+    padding: 100px 0;
+}
+
+#roles ul li {
+    text-align: left;
+}
+
+#hypothesis {
+    padding: 50px 0;
+}
+
+.alignleft {
+    text-align: left;
+}
+
+#insight {
+    padding: 50px 0;
+}
+
+#problem {
+    padding: 50px 0;
+}
+/* Customize other styles as needed */
