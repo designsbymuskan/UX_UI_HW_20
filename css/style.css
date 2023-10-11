@@ -1,15 +1,19 @@
 /* CSS for Introduction Section */
 #introduction {
-    background-image: url('your-image.jpg');
+    background-image: url('../images/bg.jpeg');
     background-size: cover;
     background-position: center;
-    color: black; /* Text color */
+    color: white; /* Text color */
     text-align: center;
     padding: 100px 0; /* Adjust the padding as needed */
 }
 
 #introduction h1 {
     font-size: 36px;
+}
+
+#overview {
+    padding: 100px 0;
 }
 
 #roles {
@@ -34,5 +38,9 @@
 
 #problem {
     padding: 50px 0;
+}
+
+#protoype {
+    padding: 100px 0;
 }
 /* Customize other styles as needed */
